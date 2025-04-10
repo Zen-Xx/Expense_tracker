@@ -34,7 +34,7 @@ With the help of this script, you can easily log your expenses, classify them, c
 1.  **Ensure Python 3 is installed** on your system.
 2.  **Download/Clone:** Get the `expense_tracker.py` script (and other project files if in a repository).
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Zen-Xx/expense-tracker.git
 cd expense-tracker
 ```
 3.  **Install Dependencies:** Open your terminal or command prompt, navigate to the directory containing the script, and install the required library:
@@ -43,7 +43,7 @@ cd expense-tracker
     ```
 4.  **Database:** No manual database setup is needed. The script will automatically create the `expense_tracker.db` file in the same directory when you run it for the first time.
 
-## Usage (Running Directly with Python)
+## Usage
 
 1.  **Run the Script:** Open your terminal or command prompt, navigate to the script's directory, and execute it using:
     ```bash
